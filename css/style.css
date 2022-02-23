@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: Verdana;
 }
 
 html {
@@ -15,7 +16,6 @@ body {
 }
 
 h1 {
-    font-family: Verdana;
     font-weight: normal;
     font-size: 5rem;
     color: white;
@@ -25,4 +25,18 @@ h1 {
 a {
     color: aquamarine;
     font-size: 1.6rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 4.2rem;
+}
+
+p {
+    font-size: 2.1rem;
+    color: gray;
+}
+
+.copyrights {
+   text-align: right; 
 }
